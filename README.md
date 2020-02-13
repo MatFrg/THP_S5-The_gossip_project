@@ -6,4 +6,4 @@ Pour lancer le programme:
   - rails db:seed
   - rails server
   
-  http://localhost:3000/the_gossip_project/welcome
+  http://localhost:3000/gossips
